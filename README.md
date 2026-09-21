@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kartik13112004/Coding--problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartik13112004/Coding--problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kartik13112004/Coding--problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik13112004/Coding--problems/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -42,8 +43,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kartik13112004/Coding--problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kartik13112004/Coding--problems/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
