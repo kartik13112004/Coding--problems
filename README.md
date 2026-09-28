@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kartik13112004/Coding--problems/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik13112004/Coding--problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kartik13112004/Coding--problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartik13112004/Coding--problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik13112004/Coding--problems/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
