@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartik13112004/Coding--problems/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/kartik13112004/Coding--problems/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik13112004/Coding--problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kartik13112004/Coding--problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kartik13112004/Coding--problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartik13112004/Coding--problems/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik13112004/Coding--problems/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kartik13112004/Coding--problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/kartik13112004/Coding--problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
 ## Sorting
 |  |
 | ------- |
