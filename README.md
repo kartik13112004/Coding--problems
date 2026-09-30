@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kartik13112004/Coding--problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kartik13112004/Coding--problems/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/kartik13112004/Coding--problems/tree/master/0541-reverse-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/kartik13112004/Coding--problems/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kartik13112004/Coding--problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/kartik13112004/Coding--problems/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/kartik13112004/Coding--problems/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/kartik13112004/Coding--problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kartik13112004/Coding--problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartik13112004/Coding--problems/tree/master/0796-rotate-string) |
