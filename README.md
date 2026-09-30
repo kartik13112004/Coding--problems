@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kartik13112004/Coding--problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartik13112004/Coding--problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kartik13112004/Coding--problems/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik13112004/Coding--problems/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik13112004/Coding--problems/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartik13112004/Coding--problems/tree/master/0014-longest-common-prefix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
