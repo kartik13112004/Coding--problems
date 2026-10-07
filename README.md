@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/kartik13112004/Coding--problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/kartik13112004/Coding--problems/tree/master/0541-reverse-string-ii) |
+| [0657-robot-return-to-origin](https://github.com/kartik13112004/Coding--problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/kartik13112004/Coding--problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kartik13112004/Coding--problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartik13112004/Coding--problems/tree/master/0796-rotate-string) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/kartik13112004/Coding--problems/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
