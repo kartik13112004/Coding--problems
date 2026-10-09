@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik13112004/Coding--problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/kartik13112004/Coding--problems/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik13112004/Coding--problems/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/kartik13112004/Coding--problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
