@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartik13112004/Coding--problems/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/kartik13112004/Coding--problems/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik13112004/Coding--problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/kartik13112004/Coding--problems/tree/master/0217-contains-duplicate) |
 | [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/kartik13112004/Coding--problems/tree/master/1672-richest-customer-wealth) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/kartik13112004/Coding--problems/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/kartik13112004/Coding--problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartik13112004/Coding--problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kartik13112004/Coding--problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kartik13112004/Coding--problems/tree/master/0383-ransom-note) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kartik13112004/Coding--problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartik13112004/Coding--problems/tree/master/0242-valid-anagram) |
 ## Queue
 |  |
