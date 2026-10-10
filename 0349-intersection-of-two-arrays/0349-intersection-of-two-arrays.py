@@ -5,3 +5,4 @@ class Solution:
         s3=s1.intersection(s2)
         return list(s3)
         
+        
