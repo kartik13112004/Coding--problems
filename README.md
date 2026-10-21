@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kartik13112004/Coding--problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik13112004/Coding--problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/kartik13112004/Coding--problems/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/kartik13112004/Coding--problems/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kartik13112004/Coding--problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartik13112004/Coding--problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
+| [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kartik13112004/Coding--problems/tree/master/1768-merge-strings-alternately) |
@@ -134,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/kartik13112004/Coding--problems/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik13112004/Coding--problems/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
