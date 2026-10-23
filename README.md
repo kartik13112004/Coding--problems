@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kartik13112004/Coding--problems/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik13112004/Coding--problems/tree/master/1903-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -137,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/kartik13112004/Coding--problems/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik13112004/Coding--problems/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
