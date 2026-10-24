@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1544-make-the-string-great](https://github.com/kartik13112004/Coding--problems/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kartik13112004/Coding--problems/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik13112004/Coding--problems/tree/master/1903-largest-odd-number-in-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik13112004/Coding--problems/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/kartik13112004/Coding--problems/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
