@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kartik13112004/Coding--problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik13112004/Coding--problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0804-unique-morse-code-words](https://github.com/kartik13112004/Coding--problems/tree/master/0804-unique-morse-code-words) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kartik13112004/Coding--problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik13112004/Coding--problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/kartik13112004/Coding--problems/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
