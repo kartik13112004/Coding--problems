@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kartik13112004/Coding--problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kartik13112004/Coding--problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/kartik13112004/Coding--problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/kartik13112004/Coding--problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/kartik13112004/Coding--problems/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/kartik13112004/Coding--problems/tree/master/0657-robot-return-to-origin) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kartik13112004/Coding--problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kartik13112004/Coding--problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kartik13112004/Coding--problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/kartik13112004/Coding--problems/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kartik13112004/Coding--problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartik13112004/Coding--problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kartik13112004/Coding--problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/kartik13112004/Coding--problems/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/kartik13112004/Coding--problems/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik13112004/Coding--problems/tree/master/2390-removing-stars-from-a-string) |
