@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kartik13112004/Coding--problems/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kartik13112004/Coding--problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kartik13112004/Coding--problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartik13112004/Coding--problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartik13112004/Coding--problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik13112004/Coding--problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/kartik13112004/Coding--problems/tree/master/2235-add-two-integers) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kartik13112004/Coding--problems/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartik13112004/Coding--problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Union-Find
 |  |
 | ------- |
